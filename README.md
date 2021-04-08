@@ -25,6 +25,8 @@ Overview of all useful Data Science packages/applications/tools
 - %timeit _(built in python, (code optimizations))_
 - Line profiler _(code optimizations)_
 - Memory profiler _(code optimizations)_
+- Airflow (workflow)
+  - Cron (workflow scheduling)
 
 ***R***
 - TidyVerse 
@@ -43,6 +45,4 @@ Overview of all useful Data Science packages/applications/tools
 - csvkit
 - sql2csv
 
-***Worfklow***
-- Airflow
-- Cron (scheduling)
+
