@@ -1,7 +1,7 @@
 # Data-Science-Packages-Overview
 Overview of all useful Data Science packages
 
-PYTHON:
+**Python**:
 
 - NumPy
 - SciPy
@@ -23,8 +23,11 @@ PYTHON:
 - BeautifulSoup (web scraping)
 - Scrapy (web scraping)
 - shutil (python module)
+- %timeit (built in python, (code optimizations))
+- Line profiler (code optimizations)
+- Memory profiler (code optimizations)
 
-R:
+**R**:
 - TidyVerse 
   - dplyr
   - tidyr
@@ -35,3 +38,10 @@ R:
   - ggplot2
   - forcats)
 - Radiant
+
+**Shell**:
+- csvkit
+- sql2csv
+
+**Worfklow**:
+- Airflow
