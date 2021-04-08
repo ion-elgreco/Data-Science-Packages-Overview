@@ -1,5 +1,5 @@
 # Data-Science-Packages/Applications/Tools-Overview
-Overview of all useful Data Science packages
+Overview of all useful Data Science packages/applications/tools
 
 ***Python***
 - NumPy _(array)_
