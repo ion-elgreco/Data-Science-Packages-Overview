@@ -1,7 +1,7 @@
 # Data-Science-Packages-Overview
 Overview of all useful Data Science packages
 
-*Python*
+***Python***
 
 - NumPy _(array)_
 - SciPy _(sparse arrays)_
