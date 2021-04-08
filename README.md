@@ -19,6 +19,7 @@ PYTHON:
 - Seaborn
 - Selenium (web scraping)
 - Requests (web scraping)
+- BeautifulSoup (web scraping)
 
 R:
 - TidyVerse 
