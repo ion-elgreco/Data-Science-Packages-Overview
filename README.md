@@ -38,6 +38,7 @@ Overview of all useful Data Science packages
   - ggplot2
   - forcats)
 - Radiant
+- Caret
 
 **Shell**:
 - csvkit
