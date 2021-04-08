@@ -13,6 +13,7 @@ PYTHON:
 - TensorFlow
 - Scikit-learn
 - Scikit-image
+- ffmpeg (ffmpeg-python)
 - OpenCV
 - NLTK
 - Matplotlib
@@ -20,6 +21,8 @@ PYTHON:
 - Selenium (web scraping)
 - Requests (web scraping)
 - BeautifulSoup (web scraping)
+- Scrapy (web scraping)
+- shutil (python module)
 
 R:
 - TidyVerse 
