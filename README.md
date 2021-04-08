@@ -3,29 +3,29 @@ Overview of all useful Data Science packages
 
 **Python**:
 
-- NumPy
-- SciPy
-- Pandas
-- PandsGUI
-- PySpark
-- Pytest
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- Scikit-image
-- ffmpeg (ffmpeg-python)
-- OpenCV
-- NLTK
-- Matplotlib
-- Seaborn
-- Selenium (web scraping)
-- Requests (web scraping)
-- BeautifulSoup (web scraping)
-- Scrapy (web scraping)
-- shutil (python module)
-- %timeit (built in python, (code optimizations))
-- Line profiler (code optimizations)
-- Memory profiler (code optimizations)
+- NumPy _(array)_
+- SciPy _(sparse arrays)_
+- Pandas _(dataframes)_
+- PandsGUI _(plotting pandas)_
+- PySpark _(parallel computing, big data processing)_
+- Pytest _(unit testing)_
+- PyTorch _(Deep Learning Framework)_
+- TensorFlow _(Deep Learning Framework)_
+- Scikit-learn _(Machine Learning Framework)_
+- Scikit-image _(image analysis toolkit)_
+- ffmpeg (ffmpeg-python) _(video processing toolkit)_
+- OpenCV _(Computer vision toolkit)_
+- NLTK _(NLP toolkit)_
+- Matplotlib  _(plotting) _
+- Seaborn _(plotting) _
+- Selenium _(web scraping)_
+- Requests _(web scraping)_
+- BeautifulSoup _(web scraping)_
+- Scrapy _(web scraping)_
+- shutil _(python module)_
+- %timeit _(built in python, (code optimizations))_
+- Line profiler _(code optimizations)_
+- Memory profiler _(code optimizations)_
 
 **R**:
 - TidyVerse 
