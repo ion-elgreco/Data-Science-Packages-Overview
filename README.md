@@ -2,7 +2,6 @@
 Overview of all useful Data Science packages
 
 ***Python***
-
 - NumPy _(array)_
 - SciPy _(sparse arrays)_
 - Pandas _(dataframes)_
@@ -27,7 +26,7 @@ Overview of all useful Data Science packages
 - Line profiler _(code optimizations)_
 - Memory profiler _(code optimizations)_
 
-***R***:
+***R***
 - TidyVerse 
   - dplyr
   - tidyr
@@ -40,9 +39,9 @@ Overview of all useful Data Science packages
 - Radiant
 - Caret
 
-***Shell***:
+***Shell***
 - csvkit
 - sql2csv
 
-***Worfklow***:
+***Worfklow***
 - Airflow
