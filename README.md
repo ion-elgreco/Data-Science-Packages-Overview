@@ -29,6 +29,7 @@ Overview of all useful Data Science packages/applications/tools
 - Singer (open source ETL)
 - Airflow (workflow)
   - Cron (workflow scheduling)
+- Boto3 (AWS)
 
 ***R***
 - TidyVerse 
