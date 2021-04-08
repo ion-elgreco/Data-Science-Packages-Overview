@@ -3,36 +3,36 @@ Overview of all useful Data Science packages/applications/tools
 
 <h2>Python2</h2>
 
-**Package**  | **Docs** | **Source code**
---- | --- | ---
-NumPy _(array)_ |
-SciPy _(sparse arrays)_ |
-Pandas _(dataframes)_ |
-PandsGUI _(plotting pandas)_ |
-PySpark _(parallel computing, big data processing)_ |
-Pytest _(unit testing)_ |
-PyTorch _(Deep Learning Framework)_ |
-TensorFlow _(Deep Learning Framework)_ |
-Scikit-learn _(Machine Learning Framework)_ |
-Scikit-image _(image analysis toolkit)_ |
-ffmpeg (ffmpeg-python) _(video processing toolkit)_ |
-OpenCV _(Computer vision toolkit)_ |
-NLTK _(NLP toolkit)_ |
-Matplotlib  _(plotting)_ |
-Seaborn _(plotting)_ |
-Selenium _(web scraping)_ |
-Requests _(web scraping)_ |
-BeautifulSoup _(web scraping)_ |
-Scrapy _(web scraping)_ |
-shutil _(python module)_ |
-%timeit _(built in python, (code optimizations))_ |
-Line profiler _(code optimizations)_ |
-Memory profiler _(code optimizations)_ |
-Flake8 (code style check) |
-Singer (open source ETL) |
-Airflow (workflow) |
-Cron (workflow scheduling) | 
-Boto3 (AWS) |
+**Package** | **Type** | **Docs** | **Source code**
+--- |  --- | --- | ---
+NumPy|  _array_ |
+SciPy| _sparse arrays_ |
+Pandas| _dataframes_ |
+PandsGUI| _plotting pandas_ |
+PySpark| _parallel computing, big data processing_ |
+Pytest| _unit testing_ |
+PyTorch| _Deep Learning Framework_ |
+TensorFlow| _Deep Learning Framework_ |
+Scikit-learn| _Machine Learning Framework_ |
+Scikit-image| _image analysis toolkit_ |
+ffmpeg| (ffmpeg-python) _video processing toolkit_ |
+OpenCV| _Computer vision toolkit_ |
+NLTK| _NLP toolkit_ |
+Matplotlib|  _plotting_ |
+Seaborn| _plotting_ |
+Selenium| _web scraping_ |
+Requests| _web scraping_ |
+BeautifulSoup| _web scraping_ |
+Scrapy| _web scraping_ |
+shutil| _python module_ |
+%timeit| _built in python, (code optimizations)_ |
+Line profiler| _code optimizations_ |
+Memory profiler| _code optimizations_ |
+Flake8| code style check |
+Singer| open source ETL |
+Airflow| workflow |
+Cron| workflow scheduling | 
+Boto3| AWS |
 
 <h2>R</h2>
 
