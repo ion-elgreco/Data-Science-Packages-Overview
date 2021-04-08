@@ -1,7 +1,7 @@
 # Data-Science-Packages/Applications/Tools-Overview
 Overview of all useful Data Science packages/applications/tools
 
-<h2>Python2</h2>
+<h2>Python</h2>
 
 **Package** | **Type** | **Docs** | **Source code**
 --- |  --- | --- | ---
