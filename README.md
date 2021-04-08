@@ -26,6 +26,7 @@ Overview of all useful Data Science packages/applications/tools
 - Line profiler _(code optimizations)_
 - Memory profiler _(code optimizations)_
 - Flake8 (code style check)
+- Singer (open source ETL)
 - Airflow (workflow)
   - Cron (workflow scheduling)
 
