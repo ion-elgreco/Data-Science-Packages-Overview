@@ -25,6 +25,7 @@ Overview of all useful Data Science packages/applications/tools
 - %timeit _(built in python, (code optimizations))_
 - Line profiler _(code optimizations)_
 - Memory profiler _(code optimizations)_
+- Flake8 (code style check)
 - Airflow (workflow)
   - Cron (workflow scheduling)
 
@@ -45,4 +46,6 @@ Overview of all useful Data Science packages/applications/tools
 - csvkit
 - sql2csv
 
+***Continous integration***
+- CircleCI
 
