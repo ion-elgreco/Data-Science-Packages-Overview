@@ -15,8 +15,8 @@ Overview of all useful Data Science packages
 - ffmpeg (ffmpeg-python) _(video processing toolkit)_
 - OpenCV _(Computer vision toolkit)_
 - NLTK _(NLP toolkit)_
-- Matplotlib  _(plotting) _
-- Seaborn _(plotting) _
+- Matplotlib  _(plotting)_
+- Seaborn _(plotting)_
 - Selenium _(web scraping)_
 - Requests _(web scraping)_
 - BeautifulSoup _(web scraping)_
