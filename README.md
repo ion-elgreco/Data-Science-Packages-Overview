@@ -33,6 +33,7 @@ Singer| open source ETL | https://github.com/singer-io/getting-started | https:/
 Airflow| workflow | https://airflow.apache.org/docs/apache-airflow/stable/index.html | https://github.com/apache/airflow
 Cron| workflow scheduling | 
 Boto3| AWS |  | https://github.com/boto/boto3
+SQLAlchemy | Database connections | | 
 
 <h2>R</h2>
 
