@@ -32,7 +32,7 @@ Flake8| code style check | https://flake8.pycqa.org/en/latest/ | https://github.
 Singer| open source ETL | https://github.com/singer-io/getting-started | https://github.com/singer-io/singer-python
 Airflow| workflow | https://airflow.apache.org/docs/apache-airflow/stable/index.html | https://github.com/apache/airflow
 Cron| workflow scheduling | 
-Boto3| AWS | https://boto3.amazonaws.com/v1/documentation/api/latest/index.html | https://github.com/boto/boto3
+Boto3| AWS |  | https://github.com/boto/boto3
 
 <h2>R</h2>
 
