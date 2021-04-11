@@ -10,6 +10,7 @@ SciPy| _sparse arrays_ | https://docs.scipy.org/doc/scipy/reference/ | https://g
 Pandas| _dataframes_ | https://pandas.pydata.org/pandas-docs/stable/ | https://github.com/pandas-dev/pandas
 PandsGUI| _plotting pandas_ | https://github.com/adamerose/pandasgui#usage | https://github.com/adamerose/pandasgui
 PySpark| _parallel computing, big data processing_ | https://spark.apache.org/docs/latest/api/python/index.html | https://github.com/apache/spark
+HandySpark | 
 Pytest| _unit testing_ | https://docs.pytest.org/en/stable/contents.html | https://github.com/pytest-dev/pytest/
 PyTorch| _Deep Learning Framework_ | https://pytorch.org/docs/stable/index.html | https://github.com/pytorch/pytorch
 TensorFlow| _Deep Learning Framework_ | https://www.tensorflow.org/api_docs | https://github.com/tensorflow/tensorflow
