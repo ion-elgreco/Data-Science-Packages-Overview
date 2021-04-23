@@ -13,6 +13,7 @@ PySpark| _parallel computing, big data processing_ | https://spark.apache.org/do
 HandySpark | 
 Pytest| _unit testing_ | https://docs.pytest.org/en/stable/contents.html | https://github.com/pytest-dev/pytest/
 PyTorch| _Deep Learning Framework_ | https://pytorch.org/docs/stable/index.html | https://github.com/pytorch/pytorch
+pomegranate | Bayesian networks/hidden markov framework | https://pomegranate.readthedocs.io/en/latest/
 TensorFlow| _Deep Learning Framework_ | https://www.tensorflow.org/api_docs | https://github.com/tensorflow/tensorflow
 Scikit-learn| _Machine Learning Framework_ | https://scikit-learn.org/stable/ | https://github.com/scikit-learn/scikit-learn
 Scikit-image| _image processing toolkit for scipy_ | https://scikit-image.org/docs/stable/ | https://github.com/scikit-image/scikit-image
