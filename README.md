@@ -39,7 +39,7 @@ SQLAlchemy| Database connections |
 
 <h2>R</h2>
 
-**Package**  | **Docs** | **Source code**
+**Package**  | **Type** | **Docs**
 --- | --- | ---
 dplyr
 tidyr
@@ -55,21 +55,22 @@ Caret
 
 <h2>Shell</h2>
 
-**Package**  | **Docs** | **Source code**
+**Package**  | **Type** | **Docs**
 --- | --- | ---
 csvkit
 sql2csv
 
 <h2>Continous integration</h2>
 
-**Tool**  | **Docs** | **Source code**
+
+**Tool**  | **Type** | **Docs**
 --- | --- | ---
 CircleCI
 Jenkins
 
 <h2>Containers</h2>
 
-**Tool**  | **Docs** | **Source code**
+**Tool**  | **Type** | **Docs**
 --- | --- | ---
 Docker
 KuberNetes
