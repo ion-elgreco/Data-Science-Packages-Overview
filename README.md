@@ -15,8 +15,7 @@ Pytest| _unit testing_ | https://docs.pytest.org/en/stable/contents.html | https
 DeepSpeed | deep learning optimization library that makes distributed training easy, efficient, and effective.  | https://deepspeed.readthedocs.io/en/latest/ https://github.com/microsoft/DeepSpeedExamples | https://github.com/microsoft/DeepSpeed
 ONNX Runtime | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator | https://www.onnxruntime.ai/docs/ | https://github.com/microsoft/onnxruntime
 auto-sklearn | Automated Machine Learning with scikit-learn | https://automl.github.io/auto-sklearn/master/ | https://github.com/automl/auto-sklearn
-nni | About
-An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|  https://nni.readthedocs.io/en/stable/ | https://github.com/microsoft/nni
+nni | An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|  https://nni.readthedocs.io/en/stable/ | https://github.com/microsoft/nni
 FLAML | A fast and lightweight AutoML library. | https://microsoft.github.io/FLAML/# https://www.microsoft.com/en-us/research/project/fast-and-lightweight-automl-for-large-scale-data/articles/flaml-a-fast-and-lightweight-automl-library/| https://github.com/microsoft/FLAML
 PyTorch| _Deep Learning Framework_ | https://pytorch.org/docs/stable/index.html | https://github.com/pytorch/pytorch
 pomegranate | Bayesian networks/hidden markov framework | https://pomegranate.readthedocs.io/en/latest/
