@@ -18,8 +18,9 @@ auto-sklearn | Automated Machine Learning with scikit-learn | https://automl.git
 nni | An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|  https://nni.readthedocs.io/en/stable/ | https://github.com/microsoft/nni
 FLAML | A fast and lightweight AutoML library. | https://microsoft.github.io/FLAML/# https://www.microsoft.com/en-us/research/project/fast-and-lightweight-automl-for-large-scale-data/articles/flaml-a-fast-and-lightweight-automl-library/| https://github.com/microsoft/FLAML
 PyTorch| _Deep Learning Framework_ | https://pytorch.org/docs/stable/index.html | https://github.com/pytorch/pytorch
-pomegranate | Bayesian networks/hidden markov framework | https://pomegranate.readthedocs.io/en/latest/
+pomegranate | Bayesian networks/hidden markov framework | https://pomegranate.readthedocs.io/en/latest/ | https://github.com/jmschrei/pomegranate
 TensorFlow| _Deep Learning Framework_ | https://www.tensorflow.org/api_docs | https://github.com/tensorflow/tensorflow
+NeuronBlocks | NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego | https://microsoft.github.io/NeuronBlocks/build/html/index.html https://github.com/microsoft/NeuronBlocks/blob/master/Tutorial.md | https://github.com/microsoft/NeuronBlocks
 Scikit-learn| _Machine Learning Framework_ | https://scikit-learn.org/stable/ | https://github.com/scikit-learn/scikit-learn
 Scikit-image| _image processing toolkit for scipy_ | https://scikit-image.org/docs/stable/ | https://github.com/scikit-image/scikit-image
 ffmpeg| (ffmpeg-python) _video processing toolkit_ | https://kkroening.github.io/ffmpeg-python/ | https://github.com/kkroening/ffmpeg-python
