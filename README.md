@@ -85,20 +85,20 @@ Multiview human pose estimation (pytorch) | | https://github.com/microsoft/multi
 Transformers | State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. | https://huggingface.co/transformers/ | https://github.com/huggingface/transformers
 
 EXTRA (need to sort out, what is possible with the tool)
-https://github.com/microsoft/responsible-ai-widgets
-https://github.com/microsoft/qlib
-https://github.com/microsoft/InnerEye-DeepLearning
-https://github.com/microsoft/RelationNet2
-https://github.com/microsoft/ProDA
-https://github.com/microsoft/FairMOT
-https://github.com/microsoft/voxelpose-pytorch
-https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
-https://github.com/microsoft/denoised-smoothing
-https://github.com/microsoft/SpareNet
-https://github.com/microsoft/nlp-recipes
-https://github.com/microsoft/tf-gnn-samples
-https://github.com/microsoft/MLC
-https://github.com/microsoft/tf2-gnn
+- https://github.com/microsoft/responsible-ai-widgets
+- https://github.com/microsoft/qlib
+- https://github.com/microsoft/InnerEye-DeepLearning
+- https://github.com/microsoft/RelationNet2
+- https://github.com/microsoft/ProDA
+- https://github.com/microsoft/FairMOT
+- https://github.com/microsoft/voxelpose-pytorch
+- https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
+- https://github.com/microsoft/denoised-smoothing
+- https://github.com/microsoft/SpareNet
+- https://github.com/microsoft/nlp-recipes
+- https://github.com/microsoft/tf-gnn-samples
+- https://github.com/microsoft/MLC
+- https://github.com/microsoft/tf2-gnn
 
 # Machine Learning Collection
 Microsoft contributing libraries, tools, recipes, sample codes and workshop contents for machine learning & deep learning.
