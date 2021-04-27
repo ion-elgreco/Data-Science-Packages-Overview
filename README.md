@@ -12,16 +12,21 @@ PandsGUI| _plotting pandas_ | https://github.com/adamerose/pandasgui#usage | htt
 PySpark| _parallel computing, big data processing_ | https://spark.apache.org/docs/latest/api/python/index.html | https://github.com/apache/spark
 HandySpark | 
 Pytest| _unit testing_ | https://docs.pytest.org/en/stable/contents.html | https://github.com/pytest-dev/pytest/
+
+DeepSpeed |  | https://github.com/microsoft/DeepSpeedExamples | https://github.com/microsoft/DeepSpeed
 PyTorch| _Deep Learning Framework_ | https://pytorch.org/docs/stable/index.html | https://github.com/pytorch/pytorch
 pomegranate | Bayesian networks/hidden markov framework | https://pomegranate.readthedocs.io/en/latest/
 TensorFlow| _Deep Learning Framework_ | https://www.tensorflow.org/api_docs | https://github.com/tensorflow/tensorflow
 Scikit-learn| _Machine Learning Framework_ | https://scikit-learn.org/stable/ | https://github.com/scikit-learn/scikit-learn
+
 Scikit-image| _image processing toolkit for scipy_ | https://scikit-image.org/docs/stable/ | https://github.com/scikit-image/scikit-image
 ffmpeg| (ffmpeg-python) _video processing toolkit_ | https://kkroening.github.io/ffmpeg-python/ | https://github.com/kkroening/ffmpeg-python
 OpenCV| _Computer vision toolkit_ | https://docs.opencv.org/ | https://github.com/opencv/opencv
 NLTK| _NLP toolkit_ | https://www.nltk.org/index.html |  https://github.com/nltk/nltk
+
 Matplotlib|  _plotting_ | https://matplotlib.org/stable/contents.html | https://github.com/matplotlib/matplotlib/
 Seaborn| _plotting_ | https://seaborn.pydata.org/api.html | https://github.com/mwaskom/seaborn
+
 Selenium| _web scraping_ | https://selenium-python.readthedocs.io/api.html | https://github.com/SeleniumHQ/selenium
 Requests| _web scraping_ | https://docs.python-requests.org/en/master/ | https://github.com/psf/requests
 BeautifulSoup| _web scraping_ | https://www.crummy.com/software/BeautifulSoup/bs4/doc/ 
@@ -73,3 +78,11 @@ Jenkins
 --- | --- | ---
 Docker
 KuberNetes
+
+
+<h2>Neural Net Architectures Implementations</h2>
+
+**Tool**  | **Docs** | **Source code**
+--- | --- | ---
+Swin-Transformer | | https://github.com/microsoft/Swin-Transformer
+Multiview human pose estimation (pytorch) | | https://github.com/microsoft/multiview-human-pose-estimation-pytorch
