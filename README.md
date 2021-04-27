@@ -86,3 +86,7 @@ KuberNetes
 --- | --- | ---
 Swin-Transformer | | https://github.com/microsoft/Swin-Transformer
 Multiview human pose estimation (pytorch) | | https://github.com/microsoft/multiview-human-pose-estimation-pytorch
+
+
+EXTRA (need to sort out, what is possible with the tool)
+https://github.com/microsoft/responsible-ai-widgets
