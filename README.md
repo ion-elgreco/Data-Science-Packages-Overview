@@ -78,7 +78,7 @@ KuberNetes
 
 <h2>Neural Net Architectures Implementations</h2>
 
-**Tool**  | **Docs** | **Source code**
+**Tool**  | **Type** | **Source code**
 --- | --- | ---
 Swin-Transformer | | https://github.com/microsoft/Swin-Transformer
 Multiview human pose estimation (pytorch) | | https://github.com/microsoft/multiview-human-pose-estimation-pytorch
