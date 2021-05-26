@@ -16,6 +16,7 @@ HandySpark |
 [pomegranate](https://github.com/jmschrei/pomegranate) | Bayesian networks/hidden markov framework | https://pomegranate.readthedocs.io/en/latest/  
 [TensorFlow](https://github.com/tensorflow/tensorflow) | _Deep Learning Framework_ | https://www.tensorflow.org/api_docs 
 [Scikit-learn](https://github.com/scikit-learn/scikit-learn)| _Machine Learning Framework_ | https://scikit-learn.org/stable/ 
+[Scikitmine](https://github.com/scikit-mine/scikit-mine)| _Pattern Mining Framework_ | https://scikit-mine.github.io/scikit-mine/index.html
 [Scikit-image](https://github.com/scikit-image/scikit-image)| _image processing toolkit for scipy_ | https://scikit-image.org/docs/stable/ 
 [ffmpeg](https://github.com/kkroening/ffmpeg-python)| (ffmpeg-python) _video processing toolkit_ | https://kkroening.github.io/ffmpeg-python/ 
 [OpenCV](https://github.com/opencv/opencv)| _Computer vision toolkit_ | https://docs.opencv.org/ 
