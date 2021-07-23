@@ -11,6 +11,7 @@ Overview of all useful Data Science packages/applications/tools
 [PandsGUI](https://github.com/adamerose/pandasgui)| _plotting pandas_ | https://github.com/adamerose/pandasgui#usage 
 [PySpark](https://github.com/apache/spark)| _parallel computing, big data processing_ | https://spark.apache.org/docs/latest/api/python/index.html 
 HandySpark | 
+[Shap](https://github.com/slundberg/shap) | _feature importance_ | 
 [Pytest](https://github.com/pytest-dev/pytest/)| _unit testing_ | https://docs.pytest.org/en/stable/contents.html
 [PyTorch](https://github.com/pytorch/pytorch)| _Deep Learning Framework_ | https://pytorch.org/docs/stable/index.html 
 [pomegranate](https://github.com/jmschrei/pomegranate) | Bayesian networks/hidden markov framework | https://pomegranate.readthedocs.io/en/latest/  
@@ -230,6 +231,7 @@ Microsoft contributing libraries, tools, recipes, sample codes and workshop cont
 - [nnfusion](https://github.com/microsoft/nnfusion) - flexible and efficient deep neural network compiler.
 
 ### Reinforcement Learning
+- [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 - [AirSim](https://github.com/microsoft/AirSim) - open source simulator for autonomous vehicles build on unreal engine / unity from microsoft research.
 - [TextWorld](https://github.com/microsoft/TextWorld) - TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
 - [Moab](https://github.com/microsoft/moab) - Project Moab, a new open-source balancing robot to help engineers and developers learn how to build real-world autonomous control systems with Project Bonsai.
