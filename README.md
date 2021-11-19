@@ -281,11 +281,6 @@ Microsoft contributing libraries, tools, recipes, sample codes and workshop cont
 - [TagAnomaly](https://github.com/microsoft/TagAnomaly) - Anomaly detection analysis and labeling tool, specifically for multiple time series (one time series per category)
 - [VoTT](https://github.com/microsoft/VoTT) - Visual object tagging tool
 
-### Developer tool
-- [Visual Studio Code](https://github.com/microsoft/vscode) -  Code editor redefined and optimized for building and debugging modern web and cloud applications.
-- [Gather](https://marketplace.visualstudio.com/items?itemName=ms-python.gather) - adds gather functionality in the Python language to the Jupyter Extension.
-- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylances) - an extension that works alongside Python in Visual Studio Code to provide performant language support.
-
 ### Sample Code
 - [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth-tech-resources)
     - [acoustic-bird-detection](https://github.com/microsoft/acoustic-bird-detection) - Tutorial: Accurate Bioacoustic Species Detection from Small Numbers of Training Clips Using the Biophony Model
@@ -301,30 +296,4 @@ Microsoft contributing libraries, tools, recipes, sample codes and workshop cont
 
 - [Forecasting Best Practices](https://github.com/microsoft/forecasting) - time series forecasting best practices & examples.
 - [Computer Vision Recipes](https://github.com/microsoft/computervision-recipes) - best practices, code samples, and documentation for Computer Vision.
-
-
-### Workshop
-
-:runner: coming soon
-
-### Book
-- [PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) - Pattern Recognition and Machine Learning by Christopher Bishop
-- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Basic Theory for Data Science.
-- [Mastering Azure Machine Learning: Perform large-scale end-to-end advanced machine learning in the cloud with Microsoft Azure Machine Learning](https://www.amazon.com/dp/1789807557/ref=cm_sw_r_tw_dp_SS0HC0EA2GXPK4QHF087) 
-- [Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions](https://www.amazon.com/dp/149205559X/ref=cm_sw_r_tw_dp_EN0VKVBDE5MZ1VK39K3F) 
-
-## Learning
-- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Learning contents for Microsoft technology
-    - [Data Scientist](https://docs.microsoft.com/en-us/learn/roles/data-scientist), [AI Engineer](https://docs.microsoft.com/en-us/learn/roles/ai-engineer)
-- [Data Science for Manager](https://github.com/microsoft/datascience4managers) - Generalization, Utility, and Experimentation: ML Concepts for Making Better Business Decisions
-- [Github Learning Lab](https://lab.github.com/) - learning contents for Github technology.
-
-### Blog, News & Webinar
-- [channel9 - AI Show](https://channel9.msdn.com/Shows/AI-Show) - videos for developers from people building Microsoft products and services.
-- [Microsoft Open Source Blog](https://cloudblogs.microsoft.com/opensource/) - blog about microsoft open source technology.
-- [Microsoft Research Event, Conference & Webinars](https://www.microsoft.com/en-us/research/webinar/) - Events, Conferences & Webinars by Microsoft Research.
-- [Microsoft Innovation Tech Hub](https://innovation.microsoft.com/en-us/developer) - AI project in Microsoft.
-- [LinkedIn Engineering Blog](https://engineering.linkedin.com/blog) - Blog by LinkedIn Engineering Team    
-<br>
-
 ---
