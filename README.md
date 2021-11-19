@@ -12,7 +12,6 @@ Overview packages/applications/tools
 [PySpark](https://github.com/apache/spark)| _parallel computing, big data processing_ | https://spark.apache.org/docs/latest/api/python/index.html 
 [Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | _Genetic algorthims hyper opt/feature selection_ | 
 [Shap](https://github.com/slundberg/shap) | _feature importance_ | 
-[deap](https://github.com/DEAP/deap) | _Evolutionary computation framework_ | 
 [Pytest](https://github.com/pytest-dev/pytest/)| _unit testing_ | https://docs.pytest.org/en/stable/contents.html
 [PyTorch](https://github.com/pytorch/pytorch)| _Deep Learning Framework_ | https://pytorch.org/docs/stable/index.html 
 [pomegranate](https://github.com/jmschrei/pomegranate) | Bayesian networks/hidden markov framework | https://pomegranate.readthedocs.io/en/latest/  
