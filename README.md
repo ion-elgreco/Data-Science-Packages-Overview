@@ -10,7 +10,8 @@ Overview packages/applications/tools
 [Pandas](https://github.com/pandas-dev/pandas)| _dataframes_ | https://pandas.pydata.org/pandas-docs/stable/ 
 [PandsGUI](https://github.com/adamerose/pandasgui)| _plotting pandas_ | https://github.com/adamerose/pandasgui#usage 
 [PySpark](https://github.com/apache/spark)| _parallel computing, big data processing_ | https://spark.apache.org/docs/latest/api/python/index.html 
-[Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | _Genetic algorthims hyper opt/feature selection_ | 
+[Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | _Genetic algorthims hyper opt/feature selection_ |
+[SmartNoise](https://smartnoise.org/) | _differential privacy_ | 
 [Shap](https://github.com/slundberg/shap) | _feature importance_ | 
 [Pytest](https://github.com/pytest-dev/pytest/)| _unit testing_ | https://docs.pytest.org/en/stable/contents.html
 [PyTorch](https://github.com/pytorch/pytorch)| _Deep Learning Framework_ | https://pytorch.org/docs/stable/index.html 
