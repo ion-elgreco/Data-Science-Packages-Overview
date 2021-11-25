@@ -11,6 +11,7 @@ Overview packages/applications/tools
 [PandsGUI](https://github.com/adamerose/pandasgui)| _plotting pandas_ | https://github.com/adamerose/pandasgui#usage 
 [PySpark](https://github.com/apache/spark)| _parallel computing, big data processing_ | https://spark.apache.org/docs/latest/api/python/index.html 
 [Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | _Genetic algorthims hyper opt/feature selection_ |
+[Dython]() | _Data analysis tools (eg. Corr matrix for categorical variables)_ | 
 [SmartNoise](https://smartnoise.org/) | _differential privacy_ | 
 [Shap](https://github.com/slundberg/shap) | _feature importance_ | 
 [Pytest](https://github.com/pytest-dev/pytest/)| _unit testing_ | https://docs.pytest.org/en/stable/contents.html
