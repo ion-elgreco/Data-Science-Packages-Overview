@@ -18,7 +18,7 @@ Overview packages/applications/tools
 [PyTorch](https://github.com/pytorch/pytorch)| _Deep Learning Framework_ | https://pytorch.org/docs/stable/index.html 
 [pomegranate](https://github.com/jmschrei/pomegranate) | Bayesian networks/hidden markov framework | https://pomegranate.readthedocs.io/en/latest/  
 [TensorFlow](https://github.com/tensorflow/tensorflow) | _Deep Learning Framework_ | https://www.tensorflow.org/api_docs 
-[TensorFlow Addons](https://github.com/tensorflow/addons/) | _Deep Learning Framework Addons, usually experimental, newly researched topics that are promising_ | https://www.tensorflow.org/api_docs 
+[TensorFlow Addons](https://github.com/tensorflow/addons/) | _Deep Learning Framework Addons, usually experimental, newly researched topics that are promising_ | https://www.tensorflow.org/addons
 [Scikit-learn](https://github.com/scikit-learn/scikit-learn)| _Machine Learning Framework_ | https://scikit-learn.org/stable/ 
 [Scikitmine](https://github.com/scikit-mine/scikit-mine)| _Pattern Mining Framework_ | https://scikit-mine.github.io/scikit-mine/index.html
 [Scikit-image](https://github.com/scikit-image/scikit-image)| _image processing toolkit for scipy_ | https://scikit-image.org/docs/stable/ 
